@@ -1,0 +1,8 @@
+-i https://mirrors.aliyun.com/pypi/simple/
+requests
+pandas
+numpy
+thrift2pyi
+pytest
+tqdm
+matplotlib
